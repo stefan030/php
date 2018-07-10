@@ -8,6 +8,6 @@ $animals = [
     'mouse'
 ];
 
-require 'index.view(homework).php';
+require 'index.view-homework.php';
 
 ?>
